@@ -36,7 +36,7 @@ class App extends Component{
     
      <div>
 
-       <h1 style={sz}>this us a test header </h1>
+       <h1 style={sz}>this us a test header !!!</h1>
        <h2>{i===1 ? 'true':'false'}</h2>
        <mainc.Headline param2={'test1'}/>
        <mainc.Headline1 param2={'test2'}/>
